@@ -1,0 +1,26 @@
+/* Xiangyi Zheng, CSE 154 AH, 2014 AUTUMN, , this CSS file build a style for names.html*/
+body {
+    font-family: Georgia,serif;
+    font-size: 12pt;
+}
+
+.popular {
+    color: red;
+}
+
+q {
+    font-style: italic;
+}
+
+td > div {
+    background-color: #FFBBBB;
+    font-weight: bold;
+    text-align: center;
+    width: 50px;
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;
+}
+
